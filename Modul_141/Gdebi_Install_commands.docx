@@ -11,3 +11,5 @@ ls -l
 sudo gdebi frigg_0.6_all.deb
 
 sudo frigg /opt/frigg > import.csv
+
+
