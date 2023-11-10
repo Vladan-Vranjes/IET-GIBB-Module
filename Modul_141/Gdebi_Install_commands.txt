@@ -1,0 +1,13 @@
+(Gdebi  File Frigg herunterladen)
+
+sudo apt-get update
+
+sudo apt install gdebi
+
+cd Downloads/
+
+ls -l
+
+sudo gdebi frigg_0.6_all.deb
+
+sudo frigg /opt/frigg > import.csv
