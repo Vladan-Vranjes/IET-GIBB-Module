@@ -13,7 +13,7 @@
 - [Modul 319 - Applikationen entwerfen und implementieren](Modul_319)
 - [Modul 431 - Aufträge im IT-Umfeld selbstständig durchführen](Modul_431)
 
-- ### Semester 2
+### Semester 2
 
 - [Modul 122 - Abläufe mit einer Scriptsprache automatisieren](Modul_104)
 - [Modul 114 - Codes, Kompressions- und Verschlüsselungsverfahren einsetzen](Modul_114)
