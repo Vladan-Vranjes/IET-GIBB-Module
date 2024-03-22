@@ -16,7 +16,7 @@
 
 ### Semester 2
 
-- [Modul 122 - Abläufe mit einer Scriptsprache automatisieren](Modul_104)
+- [Modul 122 - Abläufe mit einer Scriptsprache automatisieren](Modul_122)
 - [Modul 114 - Codes, Kompressions- und Verschlüsselungsverfahren einsetzen](Modul_114)
 - [Modul 164 - Datenbanken erstellen und Daten einfügen](Modul_164)
 - [Modul 231 - Datenschutz und Datensicherheit anwenden](Modul_231)
