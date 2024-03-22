@@ -33,6 +33,8 @@
 
 - [Modul 143 - Backup- und Restoresysteme Implementieren](Modul_143)
 - [Modul 169 - Servicesmit Containern bereitstellen](Modul_169)
+- [Modul 158 - Software-Migration planen und durchführen](Modul_158)
+- [Modul 254 - Geschäftsprozesse im eigenen Berufsumfeld beschreiben](Modul_254)
 
 ### Semester 5
 ### Semester 6
