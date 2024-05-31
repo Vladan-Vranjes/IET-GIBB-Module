@@ -5,6 +5,7 @@
 |---|---|
 | Richtung | [Informatiker/in EFZ Plattformentwicklung](https://www.ict-berufsbildung.ch/grundbildung/ict-lehren/informatiker-in-efz) |
 | Docker Images etc. | Git.gibb.ch user vvr140992 |
+| Bivo | 2021|
 
 ## Module
 
