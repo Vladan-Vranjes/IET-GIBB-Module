@@ -38,6 +38,9 @@
 - [Modul 254 - Geschäftsprozesse im eigenen Berufsumfeld beschreiben](Modul_254)
 
 ### Semester 5
+
+- [Modul 159 - Directory Services konfigurieren und in Betrieb nehmen](Modul_159)
+
 ### Semester 6
 ### Semester 7
 ### Semester 8
