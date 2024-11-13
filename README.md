@@ -40,7 +40,7 @@
 ### Semester 5
 
 - [Modul 159 - Directory Services konfigurieren und in Betrieb nehmen](Modul_159)
-- [Modul 145 - ](Modul_145)
+- [Modul 145 - Netzwerk betreiben und erweitern](Modul_145)
 
 ### Semester 6
 ### Semester 7
