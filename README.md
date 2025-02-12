@@ -43,5 +43,7 @@
 - [Modul 145 - Netzwerk betreiben und erweitern](Modul_145)
 
 ### Semester 6
+- [Modul 300 - Plattformübergreifende Dienste in ein Netzwerk integrieren](Modul_300)
+- [Modul 306 - IT-Kleinprojekt abwickeln](Modul_306)
 ### Semester 7
 ### Semester 8
