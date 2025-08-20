@@ -46,4 +46,6 @@
 - [Modul 300 - Plattformübergreifende Dienste in ein Netzwerk integrieren](Modul_300)
 - [Modul 306 - IT-Kleinprojekt abwickeln](Modul_306)
 ### Semester 7
+- [Modul 241 - Innovative ICT-Lösungen initialisieren](Modul_241)
+- [Modul 157 - IT-System-Einführung planen und durchführen](Modul_157)
 ### Semester 8
